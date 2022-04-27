@@ -32,7 +32,7 @@ PubSubClient mqtt(mqtt_broker, 1883, mqtt_callback, wifi);
 uint32_t prev_millis = 0;
 uint32_t round_trip_time = 0;
 void setup() {
-	Serial.begin(9600);
+	// Serial.begin(9600);
 
 	// mesh.setDebugMsgTypes(ERROR | MESH_STATUS | CONNECTION | SYNC | COMMUNICATION | GENERAL | MSG_TYPES | REMOTE);   // all types on
 	// mesh.setDebugMsgTypes( ERROR | STARTUP | CONNECTION );  // set before init() so that you can see startup messages
@@ -71,9 +71,7 @@ void loop() {
 }
 
 void received_callback(const uint32_t &from, const String &msg) {
-	msg += String("\t");
-    msg += String(millis() - round_trip_time);
-    mqtt.publish(report, msg.c_str());
+    mqtt.publish(report, (msg + String("\t") + String(millis() - round_trip_time)).c_str());
 }
 
 void mqtt_callback(char *topic, uint8_t *payload, unsigned int length) {
