@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <painlessMesh.h>
 // #include <PubSubClient.h>
-#include <WiFiClient.h>
+// #include <WiFiClient.h>
 
 #define   MESH_PREFIX      "esp_mesh"
 #define   MESH_PASSWORD    "123456789"
@@ -31,7 +31,6 @@ painlessMesh mesh;
 // PubSubClient mqtt(mqtt_broker, 1883, mqtt_callback, wifi);
 uint32_t prev_millis = 0;
 uint32_t round_trip_time = 0;
-uint32_t senders[2] = {0};
 void setup() {
 	Serial.begin(9600);
 
@@ -74,16 +73,7 @@ void loop() {
 void received_callback(const uint32_t &from, const String &msg) {
     // mqtt.publish(report, (msg + String("\t") + String(millis() - round_trip_time)).c_str());
 	uint32_t time = millis() - round_trip_time;
-	bool new_sender = false;
-	for (size_t i = 0; i < 2; i++) {
-		if (senders[i] != from) {
-			senders[i] = from;
-			new_sender = true;
-		}
-	}
-	
-	if (new_sender)
-		Serial.println(msg + String("\t") + String(time));
+	Serial.println(msg + String("\t") + String(time));
 }
 
 // void mqtt_callback(char *topic, uint8_t *payload, unsigned int length) {
