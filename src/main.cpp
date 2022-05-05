@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <painlessMesh.h>
-#include <PubSubClient.h>
+// #include <PubSubClient.h>
 #include <WiFiClient.h>
 
 #define   MESH_PREFIX      "esp_mesh"
@@ -14,25 +14,26 @@
 
 #define HOSTNAME "Gateway"
 
-const char *alive = "gate/alive";
-const char *report = "gate/report";
+// const char *alive = "gate/alive";
+// const char *report = "gate/report";
 
 // Prototypes
 void received_callback(const uint32_t &from, const String &msg);
-void mqtt_callback(char *topic, byte *payload, unsigned int length);
+// void mqtt_callback(char *topic, byte *payload, unsigned int length);
 
-IPAddress getlocal_ip();
+// IPAddress getlocal_ip();
 
-IPAddress my_ip(0, 0, 0, 0);
-IPAddress mqtt_broker(192, 168, 31, 22);
+// IPAddress my_ip(0, 0, 0, 0);
+// IPAddress mqtt_broker(192, 168, 31, 22);
 
 painlessMesh mesh;
-WiFiClient wifi;
-PubSubClient mqtt(mqtt_broker, 1883, mqtt_callback, wifi);
+//WiFiClient wifi;
+// PubSubClient mqtt(mqtt_broker, 1883, mqtt_callback, wifi);
 uint32_t prev_millis = 0;
 uint32_t round_trip_time = 0;
+uint32_t senders[2] = {0};
 void setup() {
-	// Serial.begin(9600);
+	Serial.begin(9600);
 
 	// mesh.setDebugMsgTypes(ERROR | MESH_STATUS | CONNECTION | SYNC | COMMUNICATION | GENERAL | MSG_TYPES | REMOTE);   // all types on
 	// mesh.setDebugMsgTypes( ERROR | STARTUP | CONNECTION );  // set before init() so that you can see startup messages
@@ -53,14 +54,14 @@ void setup() {
 
 void loop() {
 	mesh.update();
-	mqtt.loop();
+	// mqtt.loop();
 
-	if (my_ip != getlocal_ip()) {
-		my_ip = getlocal_ip();
+	// if (my_ip != getlocal_ip()) {
+	// 	my_ip = getlocal_ip();
 
-		if (mqtt.connect("gate"))
-			mqtt.publish(alive, "Ready!");        
-	}
+	// 	if (mqtt.connect("gate"))
+	// 		mqtt.publish(alive, "Ready!");        
+	// }
 
     uint32_t curr_millis = millis();
     if (curr_millis - prev_millis > TEST_INTERVAL) {
@@ -71,12 +72,23 @@ void loop() {
 }
 
 void received_callback(const uint32_t &from, const String &msg) {
-    mqtt.publish(report, (msg + String("\t") + String(millis() - round_trip_time)).c_str());
+    // mqtt.publish(report, (msg + String("\t") + String(millis() - round_trip_time)).c_str());
+	uint32_t time = millis() - round_trip_time;
+	bool new_sender = false;
+	for (size_t i = 0; i < 2; i++) {
+		if (senders[i] != from) {
+			senders[i] = from;
+			new_sender = true;
+		}
+	}
+	
+	if (new_sender)
+		Serial.println(msg + String("\t") + String(time));
 }
 
-void mqtt_callback(char *topic, uint8_t *payload, unsigned int length) {
-}
+// void mqtt_callback(char *topic, uint8_t *payload, unsigned int length) {
+// }
 
-IPAddress getlocal_ip() {
-	return IPAddress(mesh.getStationIP());
-}
+// IPAddress getlocal_ip() {
+// 	return IPAddress(mesh.getStationIP());
+// }
