@@ -1,0 +1,8508 @@
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14
+14859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	914859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	19
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	15
+14859242	Round trip time test	23
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	28
+14884181	Round trip time test	33
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	20
+14884181	Round trip time test	41
+14859242	Round trip time test	25
+14884181	Round trip time test	29
+14884181	Round trip time test	15
+14859242	Round trip time test	17
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	50
+14884181	Round trip time test	59
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	44
+14884181	Round trip time test	48
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	20
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	22
+14859242	Round trip time test	17
+14884181	Round trip time test	24
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	21
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	21
+14884181	Round trip time test	25
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14884181	Round trip time test	18
+14859242	Round trip time test	21
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14859242	Round trip time test	47
+14884181	Round trip time test	64
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	32
+14859242	Round trip time test	36
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	18
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	27
+14884181	Round trip time test	30
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	27
+14859242	Round trip time test	30
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	27
+14884181	Round trip time test	30
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	39
+14884181	Round trip time test	42
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14884181	Round trip time test	16
+14859242	Round trip time test	19
+14859242	Round trip time test	17
+14884181	Round trip time test	23
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	26
+14859242	Round trip time test	29
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	29
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	42
+14859242	Round trip time test	45
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	31
+14859242	Round trip time test	34
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14884181	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14859242	Round trip time test	16
+14884181	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	18
+14884181	Round trip time test	20
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	8
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	24
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	30
+14884181	Round trip time test	33
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14884181	Round trip time test	22
+14859242	Round trip time test	31
+14884181	Round trip time test	33
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	19
+14859242	Round trip time test	23
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	17
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	19
+14859242	Round trip time test	16
+14884181	Round trip time test	19
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	24
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	20
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	20
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	21
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	20
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	25
+14884181	Round trip time test	29
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	20
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	24
+14884181	Round trip time test	27
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14859242	Round trip time test	16
+14884181	Round trip time test	28
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	19
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	23
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	8
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	21
+14884181	Round trip time test	24
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	16
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	18
+14859242	Round trip time test	23
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	23
+14884181	Round trip time test	30
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	37
+14884181	Round trip time test	41
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	24
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	20
+14884181	Round trip time test	24
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	19
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14859242	Round trip time test	17
+14884181	Round trip time test	21
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	22
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	8
+14884181	Round trip time test	15
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	17
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	23
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	18
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	93
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	19
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	111
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	16
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	39
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	22
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	16
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	24
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	21
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	19
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	22
+14884181	Round trip time test	27
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	18
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	21
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	20
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	36
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	18
+14884181	Round trip time test	20
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	17
+14884181	Round trip time test	32
+14859242	Round trip time test	35
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	8
+14859242	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	25
+14884181	Round trip time test	30
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14884181	Round trip time test	23
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	15
+14859242	Round trip time test	17
+14859242	Round trip time test	19
+14884181	Round trip time test	24
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	25
+14859242	Round trip time test	68
+14859242	Round trip time test	11
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	15
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	20
+14884181	Round trip time test	9
+14859242	Round trip time test	11
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	67
+14884181	Round trip time test	70
+14859242	Round trip time test	17
+14884181	Round trip time test	23
+14859242	Round trip time test	77
+14884181	Round trip time test	80
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	80
+14884181	Round trip time test	128
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	15
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	22
+14859242	Round trip time test	25
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	15
+14884181	Round trip time test	35
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	23
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	100
+14884181	Round trip time test	103
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	89
+14884181	Round trip time test	91
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	19
+14859242	Round trip time test	18
+14884181	Round trip time test	22
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	29
+14884181	Round trip time test	31
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	24
+14859242	Round trip time test	8
+14884181	Round trip time test	11
+14884181	Round trip time test	74
+14859242	Round trip time test	77
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	12
+14884181	Round trip time test	18
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	28
+14884181	Round trip time test	43
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14884181	Round trip time test	14
+14859242	Round trip time test	24
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	19
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	17
+14884181	Round trip time test	25
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14884181	Round trip time test	12
+14859242	Round trip time test	50
+14859242	Round trip time test	10
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	18
+14859242	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	30
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	24
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	137
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	14
+14859242	Round trip time test	21
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	19
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	17
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	27
+14884181	Round trip time test	30
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	19
+14859242	Round trip time test	23
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	35
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	22
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	18
+14859242	Round trip time test	21
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	20
+14884181	Round trip time test	24
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	18
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	24
+14859242	Round trip time test	28
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	29
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	21
+14859242	Round trip time test	25
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	16
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	15
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	29
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	16
+14884181	Round trip time test	26
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	22
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	25
+14884181	Round trip time test	31
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	8
+14884181	Round trip time test	11
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	18
+14884181	Round trip time test	24
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	22
+14884181	Round trip time test	9
+14859242	Round trip time test	11
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	19
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	18
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	19
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	20
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	18
+14859242	Round trip time test	53
+14884181	Round trip time test	55
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	8
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	18
+14859242	Round trip time test	30
+14884181	Round trip time test	33
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	66
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	20
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	13
+14884181	Round trip time test	347
+14859242	Round trip time test	8
+14884181	Round trip time test	34
+14884181	Round trip time test	17
+14859242	Round trip time test	20
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	17
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14884181	Round trip time test	21
+14859242	Round trip time test	24
+14859242	Round trip time test	11
+14884181	Round trip time test	18
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14859242	Round trip time test	39
+14884181	Round trip time test	42
+14859242	Round trip time test	33
+14884181	Round trip time test	36
+14884181	Round trip time test	24
+14859242	Round trip time test	27
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	19
+14859242	Round trip time test	9
+14884181	Round trip time test	11
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	20
+14884181	Round trip time test	23
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	22
+14859242	Round trip time test	26
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	20
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14884181	Round trip time test	45
+14859242	Round trip time test	47
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	25
+14884181	Round trip time test	28
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	22
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	14
+14884181	Round trip time test	30
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	20
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	72
+14884181	Round trip time test	79
+14859242	Round trip time test	35
+14884181	Round trip time test	76
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	105
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	21
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	8
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	18
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	17
+14884181	Round trip time test	19
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	18
+14884181	Round trip time test	20
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	18
+14859242	Round trip time test	11
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	20
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	18
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	17
+14884181	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	21
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	13
+14859242	Round trip time test	30
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	39
+14884181	Round trip time test	46
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	19
+14859242	Round trip time test	22
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	25
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	40
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	79
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	21
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	62
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	18
+14859242	Round trip time test	21
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	16
+14884181	Round trip time test	19
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	8
+14859242	Round trip time test	136
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	19
+14884181	Round trip time test	10
+14859242	Round trip time test	18
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	20
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	12
+14884181	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	57
+14884181	Round trip time test	60
+14884181	Round trip time test	10
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	18
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	9
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	20
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14859242	Round trip time test	16
+14884181	Round trip time test	19
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	16
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	16
+14859242	Round trip time test	20
+14859242	Round trip time test	10
+14884181	Round trip time test	14
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14884181	Round trip time test	19
+14859242	Round trip time test	22
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	14
+14859242	Round trip time test	16
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	12
+14859242	Round trip time test	16
+14884181	Round trip time test	14
+14859242	Round trip time test	17
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	9
+14884181	Round trip time test	38
+14859242	Round trip time test	34
+14884181	Round trip time test	91
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14859242	Round trip time test	18
+14884181	Round trip time test	20
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	9
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	15
+14884181	Round trip time test	18
+14884181	Round trip time test	10
+14859242	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	33
+14884181	Round trip time test	36
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	19
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	12
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	21
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	13
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	119
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	13
+14884181	Round trip time test	16
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14884181	Round trip time test	13
+14859242	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14884181	Round trip time test	9
+14859242	Round trip time test	11
+14884181	Round trip time test	11
+14859242	Round trip time test	15
+14884181	Round trip time test	10
+14859242	Round trip time test	12
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14859242	Round trip time test	11
+14884181	Round trip time test	16
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	11
+14884181	Round trip time test	13
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14884181	Round trip time test	10
+14859242	Round trip time test	13
+14859242	Round trip time test	10
+14884181	Round trip time test	12
+14884181	Round trip time test	13
+14859242	Round trip time test	15
+14859242	Round trip time test	17
+14884181	Round trip time test	20
+14859242	Round trip time test	11
+14884181	Round trip time test	14
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14859242	Round trip time test	14
+14884181	Round trip time test	18
+14884181	Round trip time test	11
+14859242	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	17
+14859242	Round trip time test	10
+14884181	Round trip time test	13
+14859242	Round trip time test	9
+14884181	Round trip time test	12
+14884181	Round trip time test	29
+14859242	Round trip time test	32
+14884181	Round trip time test	9
+14859242	Round trip time test	12
+14884181	Round trip time test	12
+14859242	Round trip time test	15
+14859242	Round trip time test	12
+14884181	Round trip time test	14
+14859242	Round trip time test	12
+14884181	Round trip time test	15
+14859242	Round trip time test	9
+14884181	Round trip time test	14
+14859242	Round trip time test	13
+14884181	Round trip time test	15
+14884181	Round trip time test	11
+14859242	Round trip time test	14
